@@ -15,6 +15,6 @@ class Laptop:
         ide.execute()
         
         
-#ide = MyEditor()
+ide = MyEditor()
 lap = Laptop()
-lap.code(MyEditor())
+lap.code(ide)

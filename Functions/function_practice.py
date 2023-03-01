@@ -4,6 +4,7 @@ def isPal(str):
     while(i <= j):
         if(str[i] != str[j]):
             return False
+        i+=1
     return True
 
 str = input("enter string : ")
