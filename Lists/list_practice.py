@@ -53,10 +53,10 @@ lst.insert(3,3000)
 
 print("\nafter inserting list is : ",lst)
 
-print("popped element : ",lst.pop())
+print("\npopped element : ",lst.pop())
 
 lst.remove(7)
-print("list after deleting 7  : ",lst)
+print("\nlist after deleting 7  : ",lst)
 
 
 

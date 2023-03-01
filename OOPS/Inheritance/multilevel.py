@@ -13,7 +13,7 @@ class B(A):
         
 class C(B):
     def fun5(self):
-        print("5 function")
+        print("5  learn function")
         
         
 b1 = B()
